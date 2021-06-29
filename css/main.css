@@ -1,0 +1,21 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/header-1.jpeg)center/cover fixed no-repeat;
+    font-family: 'Courgette', cursive;
+    opacity: .6;
+}
+.info {
+    background: #704620;
+    color: antiquewhite;
+    
+  }
+  .top1{
+      color: antiquewhite;
+  }
+  
+  
+ 
